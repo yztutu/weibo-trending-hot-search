@@ -14,7 +14,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 25 2021 00:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 25 2021 01:15:16 GMT+0800 (China Standard Time) -->
 
 1. [我国新能源年发电量首次突破1万亿千瓦时](https://s.weibo.com//weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E5%B9%B4%E5%8F%91%E7%94%B5%E9%87%8F%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%8D%83%E7%93%A6%E6%97%B6%23&Refer=new_time)
 1. [著名主持人周涛任保利文化集团艺术总监](https://s.weibo.com//weibo?q=%23%E8%91%97%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%91%A8%E6%B6%9B%E4%BB%BB%E4%BF%9D%E5%88%A9%E6%96%87%E5%8C%96%E9%9B%86%E5%9B%A2%E8%89%BA%E6%9C%AF%E6%80%BB%E7%9B%91%23&Refer=top)
