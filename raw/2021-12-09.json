@@ -43,7 +43,10 @@
     "url": "/weibo?q=%233K%E8%83%BD%E8%AE%A9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AE%9E%E7%8E%B0%E6%89%8B%E6%9C%BA%E8%87%AA%E7%94%B1%E5%90%97%23&Refer=top",
     "title": "3K能让年轻人实现手机自由吗"
   },
-  { "url": "/weibo?q=%23lex%E8%A7%A3%E5%B0%81%23&Refer=top", "title": "lex解封" },
+  {
+    "url": "/weibo?q=%23lex%E8%A7%A3%E5%B0%81%23&Refer=top",
+    "title": "lex解封"
+  },
   {
     "url": "/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%E6%B6%88%E5%A4%B1%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top",
     "title": "主播美颜滤镜消失名场面"
@@ -904,7 +907,10 @@
     "url": "/weibo?q=%E4%B8%8A%E6%B5%B7%E5%81%9C%E7%94%B5&Refer=top",
     "title": "上海停电"
   },
-  { "url": "/weibo?q=%E6%9D%8E%E4%B8%8D%E8%A8%80&Refer=top", "title": "李不言" },
+  {
+    "url": "/weibo?q=%E6%9D%8E%E4%B8%8D%E8%A8%80&Refer=top",
+    "title": "李不言"
+  },
   {
     "url": "/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%9434%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%99%E5%AD%A6%E6%A5%BC%E7%8C%9D%E6%AD%BB%23&Refer=top",
     "title": "校方回应34岁研究生教学楼猝死"

@@ -1,5 +1,8 @@
 [
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E9%87%8F%E5%AD%90%E7%BA%A0%E7%BC%A0%23&t=31&band_rank=1&Refer=top",
     "title": "量子纠缠"

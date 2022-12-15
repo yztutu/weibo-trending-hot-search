@@ -753,7 +753,10 @@
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%E8%AF%A6%E6%83%85%23&t=31&band_rank=50&Refer=top",
     "title": "北京新增5例感染者详情"
   },
-  { "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time", "title": "追光" },
+  {
+    "url": "/weibo?q=%23%E8%BF%BD%E5%85%89%23&Refer=new_time",
+    "title": "追光"
+  },
   {
     "url": "/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%9B%A2vs%E6%97%A5%E6%9C%AC%E7%94%B7%E5%9B%A2%23&t=31&band_rank=2&Refer=top",
     "title": "中国男团vs日本男团"
@@ -2598,7 +2601,10 @@
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%94%99%E5%A4%B1%E7%A7%8B%E5%A4%A9%E4%B8%80%E7%A7%92%E5%85%A5%E5%86%AC%23&t=31&band_rank=50&Refer=top",
     "title": "北京错失秋天一秒入冬"
   },
-  { "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time", "title": "领航" },
+  {
+    "url": "/weibo?q=%23%E9%A2%86%E8%88%AA%23&Refer=new_time",
+    "title": "领航"
+  },
   {
     "url": "/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E4%B8%8A%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%23&t=31&band_rank=1&Refer=top",
     "title": "体检报告上的常见异常"

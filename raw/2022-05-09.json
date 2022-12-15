@@ -392,7 +392,10 @@
     "url": "/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E4%BC%99%E8%87%AA%E8%B4%B9%E7%AD%B9%E5%BB%BA%E5%AE%A0%E7%89%A9%E6%96%B9%E8%88%B1%23&Refer=top",
     "title": "北京一小伙自费筹建宠物方舱"
   },
-  { "url": "/weibo?q=%23TXT%E6%96%B0%E6%AD%8C%23&Refer=top", "title": "TXT新歌" },
+  {
+    "url": "/weibo?q=%23TXT%E6%96%B0%E6%AD%8C%23&Refer=top",
+    "title": "TXT新歌"
+  },
   {
     "url": "/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B5%B7%E8%AF%89%E9%9C%B9%E9%9B%B3%E5%A0%A1%23&Refer=top",
     "title": "易烊千玺起诉霹雳堡"
