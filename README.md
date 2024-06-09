@@ -15,7 +15,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 10 2024 01:07:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 10 2024 02:09:19 GMT+0800 (China Standard Time) -->
 
 1. [习近平总书记心系文化和自然遗产保护](https://s.weibo.com//weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BF%83%E7%B3%BB%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E4%BF%9D%E6%8A%A4%23&Refer=new_time)
 1. [刘亦菲头像](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=1&Refer=top)
